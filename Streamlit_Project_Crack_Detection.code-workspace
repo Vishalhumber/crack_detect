@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Streamlit_Project_Crack_Detection",
+			"path": "."
+		},
+		{
+			"name": "train",
+			"path": "../Concrete_Crack_Images_for_Classification/train"
+		},
+		{
+			"name": "val",
+			"path": "../Concrete_Crack_Images_for_Classification/val"
+		}
+	],
+	"settings": {}
+}
