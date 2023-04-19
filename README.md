@@ -26,7 +26,8 @@ conda install pytorch torchvision matplotlib pandas -c pytorch
 Results images 
 update images 
 
-/Users/vishalkumar/Desktop/Crack_App/crack_detect/results/concrete_crack1.jpg_output.jpg
+![alt text]('/Users/vishalkumar/Desktop/Crack_App/crack_detect/results/concrete_crack1.jpg_output.jpg')
+
 /Users/vishalkumar/Desktop/Crack_App/crack_detect/results/concrete_crack2.jpg_output.jpg
 /Users/vishalkumar/Desktop/Crack_App/crack_detect/results/concrete_crack3.jpg_output.jpg
 /Users/vishalkumar/Desktop/Crack_App/crack_detect/results/dJlw1I.jpg_output.jpg
