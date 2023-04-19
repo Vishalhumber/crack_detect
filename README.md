@@ -22,3 +22,15 @@ conda install pytorch torchvision matplotlib pandas -c pytorch
 16.	https://towardsdatascience.com/deploying-ml-models-using-streamlit-5d6212453bdd
 17.	Presentation Strategy : Start with Lottery and Add the song 
 18.	https://data.mendeley.com/datasets/5y9wdsg2zt/2
+
+Results images 
+update images 
+
+/Users/vishalkumar/Desktop/Crack_App/crack_detect/results/concrete_crack1.jpg_output.jpg
+/Users/vishalkumar/Desktop/Crack_App/crack_detect/results/concrete_crack2.jpg_output.jpg
+/Users/vishalkumar/Desktop/Crack_App/crack_detect/results/concrete_crack3.jpg_output.jpg
+/Users/vishalkumar/Desktop/Crack_App/crack_detect/results/dJlw1I.jpg_output.jpg
+/Users/vishalkumar/Desktop/Crack_App/crack_detect/results/hd-wallpaper-gd730b20ad_640.jpg_output.jpg
+/Users/vishalkumar/Desktop/Crack_App/crack_detect/results/road_surface_crack1.jpg_output.jpg
+/Users/vishalkumar/Desktop/Crack_App/crack_detect/results/road_surface_crack2.jpg_output.jpg
+/Users/vishalkumar/Desktop/Crack_App/crack_detect/results/road_surface_crack3.jpg_output.jpg
